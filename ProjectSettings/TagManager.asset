@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GM
+  - Enemy
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - Platform
+  - Enemy
+  - Overlays
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Roof
+    uniqueID: 2429938607
+    locked: 0
+  - name: Player
+    uniqueID: 1522221001
+    locked: 0
+  - name: Ground
+    uniqueID: 84554797
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
